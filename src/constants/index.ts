@@ -27,7 +27,6 @@ import p23 from "@/assets/images/p22.jpg";
 
 import sub from "@/assets/images/blog-1.png";
 import { Tab } from "@/utils/types";
-
 export const tabs: Tab[] = [
   {
     name: "Home",
@@ -104,242 +103,2903 @@ export const conferences = [
     location: "Ottawa, Canada",
     subs: [
       {
-        name: "International Conference on Higher Education - (ICOHE-24)",
-        image: sub,
-        location: "Ottawa, Canada",
-        start: {
-          date: 10,
-          month: "May",
-          year: "2024",
-        },
-        end: {
-          date: 11,
-          month: "May",
-          year: 2024,
-        },
-      },
-      {
-        name: "International Conference on Accounting, Business and Economics - (ICABE-24)",
-        image: sub,
-        location: "Ottawa, Canada",
-        start: {
-          date: 4,
-          month: "April",
-          year: "2024",
-        },
-        end: {
-          date: 5,
-          month: "April",
-          year: 2024,
-        },
-      },
-      {
-        name: "International Conference on Accounting, Business and Economics - (ICABE-24)",
-        image: sub,
-        location: "Ottawa, Canada",
-        start: {
-          date: 19,
-          month: "July",
-          year: "2024",
-        },
-        end: {
-          date: 20,
-          month: "July",
-          year: 2024,
-        },
-      },
-      {
-        name: "International Conference on Artificial Intelligence for Industries - (ICAIFI-24)",
-        image: sub,
-        location: "Ottawa, Canada",
-        start: {
-          date: 23,
-          month: "August",
-          year: "2024",
-        },
-        end: {
-          date: 24,
-          month: "August",
-          year: 2024,
-        },
-      },
+    name: "International Conference on Asian Cultural and Religious Studies",
+    image: sub,
+    start: {
+      date: 3,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 4,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Conceptual Metaphor Theory and Philosophy",
+    image: sub,
+    start: {
+      date: 3,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 4,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Small Business Entrepreneurship",
+    image: sub,
+    start: {
+      date: 4,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 5,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Accounting, Business and Economics",
+    image: sub,
+    start: {
+      date: 4,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 5,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International conference on Education, Humanities and Social Science",
+    image: sub,
+    start: {
+      date: 10,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 11,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Higher Education",
+    image: sub,
+    start: {
+      date: 10,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 11,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Radiology and Imaging",
+    image: sub,
+    start: {
+      date: 23,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 24,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Molecular Genetics and Microbiology",
+    image: sub,
+    start: {
+      date: 23,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 24,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Conflict Studies and Management",
+    image: sub,
+    start: {
+      date: 3,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 4,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Cognitive Anthropology and Culture",
+    image: sub,
+    start: {
+      date: 3,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 4,
+      month: "May",
+      year: 2024,
+    },
+  },
+
+  {
+    name: "International Conference on Change and Innovation Management",
+    image: sub,
+    start: {
+      date: 30,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 31,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Social Movements",
+    image: sub,
+    start: {
+      date: 4,
+      month: "June",
+      year: 2024,
+    },
+    end: {
+      date: 5,
+      month: "June",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Education and Educational Technology",
+    image: sub,
+    start: {
+      date: 11,
+      month: "June",
+      year: 2024,
+    },
+    end: {
+      date: 12,
+      month: "June",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Education Reform and Management Innovation",
+    image: sub,
+    start: {
+      date: 17,
+      month: "June",
+      year: 2024,
+    },
+    end: {
+      date: 18,
+      month: "June",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Experimental Nuclear Astrophysics",
+    image: sub,
+    start: {
+      date: 24,
+      month: "June",
+      year: 2024,
+    },
+    end: {
+      date: 25,
+      month: "June",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Multi-Age Classrooms and Multi-Grade Education",
+    image: sub,
+    start: {
+      date: 2,
+      month: "July",
+      year: 2024,
+    },
+    end: {
+      date: 3,
+      month: "July",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Philosophy, Science, Induction and Deduction",
+    image: sub,
+    start: {
+      date: 10,
+      month: "July",
+      year: 2024,
+    },
+    end: {
+      date: 11,
+      month: "July",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Advances in Statistical Genetics",
+    image: sub,
+    start: {
+      date: 18,
+      month: "July",
+      year: 2024,
+    },
+    end: {
+      date: 19,
+      month: "July",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Accounting, Business and Economics",
+    image: sub,
+    start: {
+      date: 19,
+      month: "July",
+      year: 2024,
+    },
+    end: {
+      date: 20,
+      month: "July",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Philosophy",
+    image: sub,
+    start: {
+      date: 5,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 6,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Asian Cultural and Religious Studies",
+    image: sub,
+    start: {
+      date: 5,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 6,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Sociology of Education and Society",
+    image: sub,
+    start: {
+      date: 12,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 13,
+      month: "August",
+      year: 2024,
+    },
+  },
+
+  {
+    name: "International Conference on Information Technology for Higher Education",
+    image: sub,
+    start: {
+      date: 12,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 13,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "World Congress on Stem Cell Biology and Biobanking",
+    image: sub,
+    start: {
+      date: 23,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 24,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Artificial Intelligence for Industries",
+    image: sub,
+    start: {
+      date: 23,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 24,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Business Performance Management and Human Resources",
+    image: sub,
+    start: {
+      date: 29,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 30,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Econometrics and Management Sciences",
+    image: sub,
+    start: {
+      date: 29,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 30,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on E-Learning and E-Technologies in Education",
+    image: sub,
+    start: {
+      date: 3,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 4,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "INTERNATIONAL CONFERENCE ON PSYCHOLOGY, LANGUAGE AND TEACHING",
+  image: sub,
+    start: {
+      date: 3,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 4,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Business, Politics, Technologies and Law",
+  image: sub,
+    start: {
+      date: 10,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 11,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Conflict Studies and Management",
+  image: sub,
+    start: {
+      date: 10,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 11,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Western Religions and Philosophy",
+  image: sub,
+    start: {
+      date: 10,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 11,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Economics, Business, Management and Finance Research",
+  image: sub,
+    start: {
+      date: 10,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 11,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Radiosurgery and Radiology",
+  image: sub,
+    start: {
+      date: 16,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 17,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Tissue Engineering & Regenerative Medicine",
+  image: sub,
+    start: {
+      date: 16,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 17,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "INTERNATIONAL CONFERENCE ON PSYCHOLOGY, LANGUAGE AND TEACHING",
+  image: sub,
+    start: {
+      date: 8,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 9,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Cancer Nursing and Cancer",
+  image: sub,
+    start: {
+      date: 8,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 9,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Business Incubation Models",
+   image: sub,
+    start: {
+      date: 17,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 18,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Applied Informatics in Economy and Business Informatics",
+   image: sub,
+    start: {
+      date: 17,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 18,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Multidisciplinary Studies and Education",
+   image: sub,
+    start: {
+      date: 22,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 23,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Latin American and Caribbean Studies",
+   image: sub,
+    start: {
+      date: 22,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 23,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on New Trends in Education: Teaching, learning and Technology",
+   image: sub,
+    start: {
+      date: 30,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 31,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Fisheries and Aquaculture",
+   image: sub,
+    start: {
+      date: 30,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 31,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Higher Education",
+   image: sub,
+    start: {
+      date: 12,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 13,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International conference on Education, Humanities and Social Science",
+   image: sub,
+    start: {
+      date: 12,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 13,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Molecular Genetics and Microbiology",
+   image: sub,
+    start: {
+      date: 18,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 19,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Radiology and Imaging",
+   image: sub,
+    start: {
+      date: 18,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 19,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Historical Linguistics and Literature",
+   image: sub,
+    start: {
+      date: 26,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 27,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Asian Cultural and Religious Studies",
+   image: sub,
+    start: {
+      date: 26,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 27,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Small Business Entrepreneurship",
+   image: sub,
+    start: {
+      date: 27,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 28,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Accounting, Business and Economics",
+   image: sub,
+    start: {
+      date: 27,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 28,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Applied Informatics in Economy and Business Informatics",
+   image: sub,
+    start: {
+      date: 6,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 7,
+      month: "December",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Business Incubation Models",
+   image: sub,
+    start: {
+      date: 6,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 7,
+      month: "December",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Cancer Nursing and Cancer",
+   image: sub,
+    start: {
+      date: 10,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 11,
+      month: "December",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Multidisciplinary Scientific Social Sciences and Arts",
+   image: sub,
+    start: {
+      date: 10,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 11,
+      month: "December",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Latin American and Caribbean Studies",
+   image: sub,
+    start: {
+      date: 17,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 18,
+      month: "December",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Multidisciplinary Studies and Education",
+   image: sub,
+    start: {
+      date: 17,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 18,
+      month: "December",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on New Trends in Education: Teaching, learning and Technology",
+   image: sub,
+    start: {
+      date: 30,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 31,
+      month: "December",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Fisheries and Aquaculture",
+   image: sub,
+    start: {
+      date: 30,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 31,
+      month: "December",
+      year: 2024,
+    },
+  },
     ],
   },
   {
     image: singapore,
     location: "Toronto, Canada",
     subs: [
-      {
-        name: "International Conference on Analysis of Soil-Structure Interaction - (ICASSI-24)",
-        image: sub,
-        location: "Toronto, Canada",
-        start: {
-          date: 29,
-          month: "March",
-          year: "2024",
-        },
-        end: {
-          date: 30,
-          month: "March",
-          year: 2024,
-        },
-      },
-      {
-        name: "International Congress on Tourism and Hospitality Management - (ICTHM-24)",
-        image: sub,
-        location: "Toronto, Canada",
-        start: {
-          date: 13,
-          month: "May",
-          year: "2024",
-        },
-        end: {
-          date: 14,
-          month: "May",
-          year: 2024,
-        },
-      },
-      {
-        name: "International Conference on Vehicular, Mobile and Wearable Technology - (ICVMWT-24)",
-        image: sub,
-        location: "Toronto, Canada",
-        start: {
-          date: 22,
-          month: "March",
-          year: "2024",
-        },
-        end: {
-          date: 23,
-          month: "March",
-          year: 2024,
-        },
-      },
+     
+  {
+    name: "International Conference on Applied Informatics in Economy and Business Informatics",
+    image: sub,
+    start: {
+      date: 4,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 5,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Economics, Business, Management and Finance Research",
+    image: sub,
+    start: {
+      date: 5,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 6,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Personalized Marketing and Management",
+    image: sub,
+    start: {
+      date: 5,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 6,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Food Tourism and Sustainability",
+    image: sub,
+    start: {
+      date: 11,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 12,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on European Civilization and History",
+    image: sub,
+    start: {
+      date: 11,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 12,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Security Studies",
+    image: sub,
+    start: {
+      date: 15,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 16,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Educational Policy Studies, Management Studies and Leadership",
+    image: sub,
+    start: {
+      date: 15,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 16,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Cancer Biology and Therapeutics",
+    image: sub,
+    start: {
+      date: 17,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 18,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Cancer Research and Anticancer Therapies",
+    image: sub,
+    start: {
+      date: 17,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 18,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Surgical Gastroenterology and Laparoscopic Surgery",
+    image: sub,
+    start: {
+      date: 22,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 23,
+      month: "April",
+      year: 2024,
+    },
+  },
+   {
+    name: "International Conference on Intelligence and Safety for Robotics",
+    image: sub,
+    start: {
+      date: 22,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 23,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Recreational Tourism and Hospitality Management",
+    image: sub,
+    start: {
+      date: 24,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 25,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Computer Architecture and Integrated Circuits",
+    image: sub,
+    start: {
+      date: 24,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 25,
+      month: "April",
+      year: 2024,
+    },
+  },
 
-      {
-        name: "International Conference on Landscape Architecture, Urban Planning and Landscape Assessment - (ICLAUPLA -24)",
-        image: sub,
-        location: "Toronto, Canada",
-        start: {
-          date: 17,
-          month: "April",
-          year: "2024",
-        },
-        end: {
-          date: 18,
-          month: "April",
-          year: 2024,
-        },
-      },
-      {
-        name: "International Conference on Landscape Architecture, Urban Planning and Landscape Assessment - (ICLAUPLA -24)",
-        image: sub,
-        location: "Toronto, Canada",
-        start: {
-          date: 26,
-          month: "April",
-          year: "2024",
-        },
-        end: {
-          date: 27,
-          month: "April",
-          year: 2024,
-        },
-      },
-      {
-        name: "International Conference on Intelligence and Safety for Robotics - (ICISR-24)",
-        image: sub,
-        location: "Toronto, Canada",
-        start: {
-          date: 22,
-          month: "April",
-          year: "2024",
-        },
-        end: {
-          date: 23,
-          month: "April",
-          year: 2024,
-        },
-      },
-
-      {
-        name: "International Conference on Wheeled Mobile Robotics - (ICWMR-24)",
-        image: sub,
-        location: "Toronto, Canada",
-        start: {
-          date: 22,
-          month: "May",
-          year: "2024",
-        },
-        end: {
-          date: 23,
-          month: "May",
-          year: 2024,
-        },
-      },
-
-      {
-        name: "International Conference on Aerial Robotics, Engineering and Design - (ICARED-24)",
-        image: sub,
-        location: "Toronto, Canada",
-        start: {
-          date: 21,
-          month: "June",
-          year: "2024",
-        },
-        end: {
-          date: 22,
-          month: "June",
-          year: 2024,
-        },
-      },
-
-      {
-        name: "nternational Conference on Civil Engineering, Architecture and Urban Planning Elites - (ICCEAUPE-24)",
-        image: sub,
-        location: "Toronto, Canada",
-        start: {
-          date: 25,
-          month: "June",
-          year: "2024",
-        },
-        end: {
-          date: 26,
-          month: "June",
-          year: 2024,
-        },
-      },
-
-      {
-        name: "International Conference on Assistive Robotics, Wearable Robots and Devices - (ICARWRD-24)",
-        image: sub,
-        location: "Toronto, Canada",
-        start: {
-          date: 17,
-          month: "July",
-          year: "2024",
-        },
-        end: {
-          date: 18,
-          month: "July",
-          year: 2024,
-        },
-      },
-
-      {
-        name: "International Conference on Electrical, Electronics, Computer , Civil and Mechanical Engineering - (ICEECCME-24)",
-        image: sub,
-        location: "Toronto, Canada",
-        start: {
-          date: 2,
-          month: "December",
-          year: "2024",
-        },
-        end: {
-          date: 3,
-          month: "December",
-          year: 2024,
-        },
-      },
+  {
+    name: "International Conference on Green Banking for Green Industry and Green Economy",
+    image: sub,
+    start: {
+      date: 26,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 27,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Landscape Architecture, Urban Planning and Landscape Assessment",
+    image: sub,
+    start: {
+      date: 26,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 27,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Healthcare Finance and Financial Management",
+    image: sub,
+    start: {
+      date: 29,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 30,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Advances in Tourism Economics",
+    image: sub,
+    start: {
+      date: 29,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 30,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Intelligence and Safety for Robotics",
+    image: sub,
+    start: {
+      date: 22,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 23,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Recreational Tourism and Hospitality Management",
+    image: sub,
+    start: {
+      date: 24,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 25,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Computer Architecture and Integrated Circuits",
+    image: sub,
+    start: {
+      date: 24,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 25,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Green Banking for Green Industry and Green Economy",
+    image: sub,
+    start: {
+      date: 26,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 27,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Landscape Architecture, Urban Planning and Landscape Assessment",
+    image: sub,
+    start: {
+      date: 26,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 27,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Healthcare Finance and Financial Management",
+    image: sub,
+    start: {
+      date: 29,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 30,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Advances in Tourism Economics",
+    image: sub,
+    start: {
+      date: 29,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 30,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Business Applications of Machine Learning",
+    image: sub,
+    start: {
+      date: 6,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 7,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Sustainability Change Management",
+    image: sub,
+    start: {
+      date: 6,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 7,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Economics, Business, Management and Finance Research",
+    image: sub,
+    start: {
+      date: 7,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 8,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on International Marketing and Export Management",
+    image: sub,
+    start: {
+      date: 7,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 8,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Congress on Tourism and Hospitality Management",
+    image: sub,
+    start: {
+      date: 13,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 14,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on European Intellectual History",
+    image: sub,
+    start: {
+      date: 13,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 14,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Transnational Studies and American Literature",
+    image: sub,
+    start: {
+      date: 15,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 16,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Global History",
+    image: sub,
+    start: {
+      date: 15,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 16,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Bacterial Cell Biology and Research",
+    image: sub,
+    start: {
+      date: 17,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 18,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "World Cancer Summit",
+    image: sub,
+    start: {
+      date: 17,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 18,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Gastroenterology, Endoscopy and Colonoscopy",
+    image: sub,
+    start: {
+      date: 22,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 23,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Wheeled Mobile Robotics",
+    image: sub,
+    start: {
+      date: 22,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 23,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Sport Tourism Activities and Local Organizations",
+    image: sub,
+    start: {
+      date: 24,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 25,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Smart Cities and Sustainable Systems",
+    image: sub,
+    start: {
+      date: 24,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 25,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Computational Economics and Finance",
+    image: sub,
+    start: {
+      date: 29,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 30,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Tourism Social Science",
+    image: sub,
+    start: {
+      date: 29,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 30,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Financial Service Management and Insurance Industries",
+    image: sub,
+    start: {
+      date: 30,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 31,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Urban Studies, Planning and Development",
+    start: {
+      date: 30,
+      month: "May",
+      year: 2024
+    },
+    end: {
+      date: 31,
+      month: "May",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Soil Quality, Crop Nutrition, Agronomic Management Practices and Tillage",
+    start: {
+      date: 5,
+      month: "June",
+      year: 2024
+    },
+    end: {
+      date: 6,
+      month: "June",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Performance Marketing and Performance Management",
+    start: {
+      date: 6,
+      month: "June",
+      year: 2024
+    },
+    end: {
+      date: 7,
+      month: "June",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Urban Noise Pollution Assessment Techniques and Urban Planning",
+    start: {
+      date: 6,
+      month: "June",
+      year: 2024
+    },
+    end: {
+      date: 7,
+      month: "June",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on European Civilization and History",
+    start: {
+      date: 12,
+      month: "June",
+      year: 2024
+    },
+    end: {
+      date: 13,
+      month: "June",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on History of Continental Philosophy",
+    start: {
+      date: 14,
+      month: "June",
+      year: 2024
+    },
+    end: {
+      date: 15,
+      month: "June",
+      year: 2024
+    },
+  },
+  {
+    name: "World Summit on Cancer Therapy & Radiation Oncology",
+    start: {
+      date: 18,
+      month: "June",
+      year: 2024
+    },
+    end: {
+      date: 19,
+      month: "June",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Aerial Robotics, Engineering and Design",
+    start: {
+      date: 21,
+      month: "June",
+      year: 2024
+    },
+    end: {
+      date: 22,
+      month: "June",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Civil Engineering, Architecture and Urban Planning Elites",
+    start: {
+      date: 25,
+      month: "June",
+      year: 2024
+    },
+    end: {
+      date: 26,
+      month: "June",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Virtual Tourism Activities and Technology",
+    start: {
+      date: 28,
+      month: "June",
+      year: 2024
+    },
+    end: {
+      date: 29,
+      month: "June",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on European Cultural History",
+    start: {
+      date: 5,
+      month: "July",
+      year: 2024
+    },
+    end: {
+      date: 6,
+      month: "July",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Personalized Marketing and Management",
+    start: {
+      date: 12,
+      month: "July",
+      year: 2024
+    },
+    end: {
+      date: 13,
+      month: "July",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Assistive Robotics, Wearable Robots and Devices",
+    start: {
+      date: 17,
+      month: "July",
+      year: 2024
+    },
+    end: {
+      date: 18,
+      month: "July",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Climate-Adaptable Architecture and Building Design Strategies",
+    start: {
+      date: 17,
+      month: "July",
+      year: 2024
+    },
+    end: {
+      date: 18,
+      month: "July",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Interdisciplinary Approaches in Life Sciences for Translational Research",
+    start: {
+      date: 22,
+      month: "July",
+      year: 2024
+    },
+    end: {
+      date: 23,
+      month: "July",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Hematology and Oncology",
+    start: {
+      date: 25,
+      month: "July",
+      year: 2024
+    },
+    end: {
+      date: 26,
+      month: "July",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Urban Geotechnology and Urban Environment",
+    start: {
+      date: 29,
+      month: "July",
+      year: 2024
+    },
+    end: {
+      date: 30,
+      month: "July",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Knowledge Management in Tourism and Hospitality",
+    start: {
+      date: 30,
+      month: "July",
+      year: 2024
+    },
+    end: {
+      date: 31,
+      month: "July",
+      year: 2024
+    },
+  },
+  // {
+  //   name: "International Conference on Econometrics and Management Sciences",
+  //   start: {
+  //     date: 6,
+  //     month: "August",
+  //     year: 2024
+  //   },
+  //   end: {
+  //     date: 7,
+  //     month: "August",
+  //     year: 2024
+  //   },
+  // },
+  {
+    name: "International Conference on Smart Business",
+    start: {
+      date: 6,
+      month: "August",
+      year: 2024
+    },
+    end: {
+      date: 7,
+      month: "August",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Global Marketing and Economics",
+    start: {
+      date: 7,
+      month: "August",
+      year: 2024
+    },
+    end: {
+      date: 8,
+      month: "August",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Internet Economy",
+    start: {
+      date: 7,
+      month: "August",
+      year: 2024
+    },
+    end: {
+      date: 8,
+      month: "August",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on European and Eurasian Studies",
+    start: {
+      date: 13,
+      month: "August",
+      year: 2024
+    },
+    end: {
+      date: 14,
+      month: "August",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Public Opinion and Public Policy",
+    start: {
+      date: 13,
+      month: "August",
+      year: 2024
+    },
+    end: {
+      date: 14,
+      month: "August",
+      year: 2024
+    },
+  },
+   {
+    name: "International Conference on History and Philosophy of Cybernetics",
+    image: sub,
+    start: {
+      date: 15,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 16,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Biotransformation Studies",
+    image: sub,
+    start: {
+      date: 15,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 16,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Oral Oncology and Maxillofacial Prosthetics",
+    image: sub,
+    start: {
+      date: 19,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 20,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Multidisciplinary Social Studies, Anthropology, History and Archaeology",
+    image: sub,
+    start: {
+      date: 19,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 20,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Intelligent Human Computer Interaction",
+    image: sub,
+    start: {
+      date: 22,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 23,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Architecture and Planning",
+    image: sub,
+    start: {
+      date: 22,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 23,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "World Conference on Agriculture and Animal Science",
+    image: sub,
+    start: {
+      date: 22,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 23,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Physics and Chemistry of Conductive Polymers",
+    image: sub,
+    start: {
+      date: 22,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 23,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Extreme Tourism Activities",
+    image: sub,
+    start: {
+      date: 28,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 29,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Mathematical Modelling in Applied Sciences",
+    image: sub,
+    start: {
+      date: 28,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 29,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Urban Tourism Studies",
+    image: sub,
+    start: {
+      date: 29,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 30,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on homological algebra",
+    image: sub,
+    start: {
+      date: 29,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 30,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on European History",
+    image: sub,
+    start: {
+      date: 4,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 5,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Cultural Tourism and Museum Management",
+    image: sub,
+    start: {
+      date: 4,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 5,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Multidisciplinary Social Studies, Anthropology, History and Archaeology",
+    image: sub,
+    start: {
+      date: 6,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 7,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on American Literature and Culture",
+    image: sub,
+    start: {
+      date: 6,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 7,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Hotel and Operations Management",
+    image: sub,
+    start: {
+      date: 11,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 12,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Environmental and Natural Resources Law",
+    image: sub,
+    start: {
+      date: 11,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 12,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Innovation, Creativity and Marketing",
+    image: sub,
+    start: {
+      date: 12,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 13,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Urban Studies, Design and Planning",
+    image: sub,
+    start: {
+      date: 12,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 13,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Human Biotechnology and Human-Machine Integration",
+    image: sub,
+    start: {
+      date: 12,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 13,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Entrepreneurial Marketing, Marketing and Finance",
+    image: sub,
+    start: {
+      date: 12,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 13,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Colonial Architecture and Culture",
+    image: sub,
+    start: {
+      date: 17,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 18,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Public Health and Healthcare Research",
+    image: sub,
+    start: {
+      date: 17,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 18,
+      month: "September",
+      year: 2024,
+    },
+  },
+{
+    name: "International Conference on Tourism for Peace",
+    image: sub,
+    start: {
+      date: 20,
+      month: "September",
+      year: "2024",
+    },
+    end: {
+      date: 21,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "World Conference on Accounting and Financial Reporting",
+    image: sub,
+    start: {
+      date: 20,
+      month: "September",
+      year: "2024",
+    },
+    end: {
+      date: 21,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "World Conference on Breast and Cervical Cancer",
+    image: sub,
+    start: {
+      date: 24,
+      month: "September",
+      year: "2024",
+    },
+    end: {
+      date: 25,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Conflict Studies and Management",
+    image: sub,
+    start: {
+      date: 24,
+      month: "September",
+      year: "2024",
+    },
+    end: {
+      date: 25,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Household Service Robotics, Design and Implementation",
+    image: sub,
+    start: {
+      date: 27,
+      month: "September",
+      year: "2024",
+    },
+    end: {
+      date: 28,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Seismic Engineering and Disaster Management",
+    image: sub,
+    start: {
+      date: 27,
+      month: "September",
+      year: "2024",
+    },
+    end: {
+      date: 28,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Advanced General Surgery and Oncology",
+    image: sub,
+    start: {
+      date: 3,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 4,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Statistical Genetics and Methodology",
+    image: sub,
+    start: {
+      date: 3,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 4,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Business, Economics, Marketing and Management",
+    image: sub,
+    start: {
+      date: 9,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 10,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Business Analytics and Decision Analysis",
+    image: sub,
+    start: {
+      date: 9,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 10,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Pharmaceutical Industrial Marketing and Management",
+    image: sub,
+    start: {
+      date: 10,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 11,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Health Economics and Management",
+    image: sub,
+    start: {
+      date: 10,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 11,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Domestic Tourism, Political and Social Aspects",
+    image: sub,
+    start: {
+      date: 16,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 17,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Heavy Metal Contamination in Soil and Groundwater",
+    image: sub,
+    start: {
+      date: 16,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 17,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Urban Geography and Regional Studies",
+    image: sub,
+    start: {
+      date: 17,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 18,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Interdisciplinary Musicology",
+    image: sub,
+    start: {
+      date: 17,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 18,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on European and Eurasian Studies",
+    image: sub,
+    start: {
+      date: 23,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 24,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Human Evolution and Speciation Genetics",
+    image: sub,
+    start: {
+      date: 23,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 24,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Rural Sociology, Organization and Structure",
+    image: sub,
+    start: {
+      date: 25,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 26,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Distance Education Technologies",
+    image: sub,
+    start: {
+      date: 25,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 26,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Engineering and Natural Science",
+    image: sub,
+    start: {
+      date: 29,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 30,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Micromanufacturing and Nanotechnology",
+    image: sub,
+    start: {
+      date: 29,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 30,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Interdisciplinary Law and Policy Studies",
+    image: sub,
+    start: {
+      date: 29,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 30,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Interdisciplinary Law, Society, Justice and Legal Studies",
+    image: sub,
+    start: {
+      date: 29,
+      month: "October",
+      year: "2024",
+    },
+    end: {
+      date: 30,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Cancer Biology and Therapeutics",
+    image: sub,
+    start: {
+      date: 5,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 6,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Cancer Research and Anticancer Therapies",
+    image: sub,
+    start: {
+      date: 5,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 6,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Surgical Gastroenterology and Laparoscopic Surgery",
+    image: sub,
+    start: {
+      date: 8,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 9,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Intelligence and Safety for Robotics",
+    image: sub,
+    start: {
+      date: 8,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 9,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Food Tourism and Sustainability",
+    image: sub,
+    start: {
+      date: 13,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 14,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on European Civilization and History",
+    image: sub,
+    start: {
+      date: 13,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 14,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Security Studies",
+    image: sub,
+    start: {
+      date: 15,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 16,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Medical Sociology and Health Economics",
+    image: sub,
+    start: {
+      date: 15,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 16,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Recreational Tourism and Hospitality Management",
+    image: sub,
+    start: {
+      date: 19,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 20,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Computer Architecture and Integrated Circuits",
+    image: sub,
+    start: {
+      date: 19,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 20,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Green Banking for Green Industry and Green Economy",
+    image: sub,
+    start: {
+      date: 21,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 22,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Landscape Architecture, Urban Planning and Landscape Assessment",
+    image: sub,
+    start: {
+      date: 21,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 22,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Healthcare Finance and Financial Management",
+    image: sub,
+    start: {
+      date: 22,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 23,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Advances in Tourism Economics",
+    image: sub,
+    start: {
+      date: 22,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 23,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Applied Informatics in Economy and Business Informatics",
+    image: sub,
+    start: {
+      date: 27,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 28,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Business Management and Social Innovation",
+    image: sub,
+    start: {
+      date: 27,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 28,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Economics, Business, Management and Finance Research",
+    image: sub,
+    start: {
+      date: 28,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 29,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Personalized Marketing and Management",
+    image: sub,
+    start: {
+      date: 28,
+      month: "November",
+      year: "2024"
+    },
+    end: {
+      date: 29,
+      month: "November",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Engineering and Natural Science",
+    image: sub,
+    start: {
+      date: 2,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 3,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Micromanufacturing and Nanotechnology",
+    image: sub,
+    start: {
+      date: 2,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 3,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Electrical, Electronics, Computer, Civil and Mechanical Engineering",
+    image: sub,
+    start: {
+      date: 2,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 3,
+      month: "December",
+      year: 2024
+    },
+  },
+   {
+    name: "International Conference on Clinical Laboratory Science and Medicine",
+    image: sub,
+    start: {
+      date: 2,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 3,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Domestic Tourism, Political and Social Aspects",
+    image: sub,
+    start: {
+      date: 5,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 6,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Philosophy, History, Archaeology and Anthropology",
+    image: sub,
+    start: {
+      date: 5,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 6,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Urban Geography and Regional Studies",
+    image: sub,
+    start: {
+      date: 6,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 7,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "INTERNATIONAL CONFERENCE ON MULTIDISCIPLINARY FILIPINO STUDIES",
+    image: sub,
+    start: {
+      date: 6,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 7,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Business, Economics, Marketing and Management",
+    image: sub,
+    start: {
+      date: 11,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 12,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Business Analytics and Decision Analysis",
+    image: sub,
+    start: {
+      date: 11,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 12,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Pharmaceutical Industrial Marketing and Management",
+    image: sub,
+    start: {
+      date: 12,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 13,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Health Economics and Management",
+    image: sub,
+    start: {
+      date: 12,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 13,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on European and Eurasian Studies",
+    image: sub,
+    start: {
+      date: 18,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 19,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Human Evolution and Speciation Genetics",
+    image: sub,
+    start: {
+      date: 18,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 19,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Medical Sociology and Health Economics",
+    image: sub,
+    start: {
+      date: 20,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 21,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Distance Education Technologies",
+    image: sub,
+    start: {
+      date: 20,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 21,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Advanced General Surgery and Oncology",
+    image: sub,
+    start: {
+      date: 24,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 25,
+      month: "December",
+      year: 2024
+    },
+  },
+  {
+    name: "International Conference on Statistical Genetics and Methodology",
+    image: sub,
+    start: {
+      date: 24,
+      month: "December",
+      year: "2024"
+    },
+    end: {
+      date: 25,
+      month: "December",
+      year: 2024
+    },
+  },
     ],
   },
   {
