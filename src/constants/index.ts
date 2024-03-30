@@ -2777,28 +2777,920 @@ year: 2024
     image: singapore,
     location: "Kitchener, Canada",
     subs: [
-      
+      {
+    name: "International Conference on Early Childhood Education and Effective Designing Instructions",
+    image: sub,
+    start: {
+      date: 26,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 27,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Business Systems and Management",
+    image: sub,
+    start: {
+      date: 26,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 27,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Early Childhood Education and Effective Designing Instructions",
+    image: sub,
+    start: {
+      date: 8,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 9,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Business, Economics, Finance and Management Sciences",
+    image: sub,
+    start: {
+      date: 8,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 9,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Economics and Business",
+    image: sub,
+    start: {
+      date: 20,
+      month: "June",
+      year: 2024,
+    },
+    end: {
+      date: 21,
+      month: "June",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Economics, Business, Management and Finance Research",
+    image: sub,
+    start: {
+      date: 10,
+      month: "July",
+      year: 2024,
+    },
+    end: {
+      date: 11,
+      month: "July",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Leadership and Management",
+    image: sub,
+    start: {
+      date: 5,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 6,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Multilingual Education and Sustainable Diversity",
+    image: sub,
+    start: {
+      date: 5,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 6,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Talent Management and Business Performance Improvement",
+    image: sub,
+    start: {
+      date: 18,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 19,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Distance Education",
+    image: sub,
+    start: {
+      date: 18,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 19,
+      month: "September",
+      year: 2024,
+    },
+  },
+   {
+    name: "International Conference on Security and Privacy-Enhanced Business Process Management",
+    image: sub,
+    start: {
+      date: 8,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 9,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Engineering Mathematics and Physics",
+    image: sub,
+    start: {
+      date: 8,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 9,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Early Childhood Education and Effective Designing Instructions",
+    image: sub,
+    start: {
+      date: 21,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 22,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Business Systems and Management",
+    image: sub,
+    start: {
+      date: 21,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 22,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Security and Privacy-Enhanced Business Process Management",
+    image: sub,
+    start: {
+      date: 10,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 11,
+      month: "December",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Engineering Mathematics and Physics",
+    image: sub,
+    start: {
+      date: 10,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 11,
+      month: "December",
+      year: 2024,
+    },
+  },
     ],
   }, 
   {
     image: singapore,
     location: "St. Catharines, Canada",
     subs: [
-      
+      {
+    name: "International Conference on Distance Education and Language Learning Innovations",
+    image: sub,
+    start: {
+      date: 11,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 12,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Radio Resource Management",
+    image: sub,
+    start: {
+      date: 11,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 12,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Distance Education and Innovative Teaching Models",
+    image: sub,
+    start: {
+      date: 27,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 28,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Global Strategic Management",
+    image: sub,
+    start: {
+      date: 27,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 28,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Recent Advances in Management, Sociology and Psychology",
+    image: sub,
+    start: {
+      date: 14,
+      month: "June",
+      year: 2024,
+    },
+    end: {
+      date: 15,
+      month: "June",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Global Strategic Management",
+    image: sub,
+    start: {
+      date: 3,
+      month: "July",
+      year: 2024,
+    },
+    end: {
+      date: 4,
+      month: "July",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Smart Business",
+    image: sub,
+    start: {
+      date: 9,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 10,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Education, Distance Education, Instructional and Educational Technology",
+    image: sub,
+    start: {
+      date: 9,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 10,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Portfolio Management and Pipeline Management",
+    image: sub,
+    start: {
+      date: 25,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 26,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Multidisciplinary Studies and Education",
+    image: sub,
+    start: {
+      date: 25,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 26,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Recent Advances in Distributed Network Mobility Management",
+    image: sub,
+    start: {
+      date: 21,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 22,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Nuclear Decommissioning and Waste Management Technology",
+    image: sub,
+    start: {
+      date: 21,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 22,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Distance Education and Language Learning Innovations",
+    image: sub,
+    start: {
+      date: 13,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 14,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Radio Resource Management",
+    image: sub,
+    start: {
+      date: 13,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 14,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Recent Advances in Distributed Network Mobility Management",
+    image: sub,
+    start: {
+      date: 16,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 17,
+      month: "December",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Nuclear Decommissioning and Waste Management Technology",
+    image: sub,
+    start: {
+      date: 16,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 17,
+      month: "December",
+      year: 2024,
+    },
+  },
     ],
   }, 
   {
     image: singapore,
     location: "Quebec City, Canada",
     subs: [
-      
+      {
+    name: "International Conference on Roman Catholic Church and Sacraments",
+    image: sub,
+    start: {
+      date: 24,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 25,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Cosmetic Dentistry Procedures",
+    image: sub,
+    start: {
+      date: 24,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 25,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Soil Quality, Crop Nutrition and Sustainable Land Management",
+    image: sub,
+    start: {
+      date: 30,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 31,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Prosthodontics and Restorative Dentistry",
+    image: sub,
+    start: {
+      date: 30,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 31,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Public Health Dentistry Conference",
+    image: sub,
+    start: {
+      date: 3,
+      month: "June",
+      year: 2024,
+    },
+    end: {
+      date: 4,
+      month: "June",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Basic Dentistry and Oral Epidemiology",
+    image: sub,
+    start: {
+      date: 12,
+      month: "July",
+      year: 2024,
+    },
+    end: {
+      date: 13,
+      month: "July",
+      year: 2024,
+    },
+  },
+  {
+    name: "Annual Congress on Dentistry and Dental Medicine",
+    image: sub,
+    start: {
+      date: 29,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 30,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Online Learning and Teaching",
+    image: sub,
+    start: {
+      date: 29,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 30,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Public Health Dentistry Conference",
+    image: sub,
+    start: {
+      date: 13,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 14,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Existentialism, Philosophy and Anxiety",
+    image: sub,
+    start: {
+      date: 13,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 14,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Cardiovascular, Diabetes, and Metabolic Disorders Research",
+    image: sub,
+    start: {
+      date: 17,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 18,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Crises Management, Prehospital and Disaster Medicine and Disaster",
+    image: sub,
+    start: {
+      date: 17,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 18,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Multidisciplinary Current Research",
+    image: sub,
+    start: {
+      date: 19,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 20,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Cosmetic Dentistry Procedures",
+    image: sub,
+    start: {
+      date: 19,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 20,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Cardiovascular, Diabetes, and Metabolic Disorders Research",
+    image: sub,
+    start: {
+      date: 6,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 7,
+      month: "December",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Crises Management, Prehospital and Disaster Medicine and Disaster",
+    image: sub,
+    start: {
+      date: 6,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 7,
+      month: "December",
+      year: 2024,
+    },
+  },
     ],
   },
   {
     image: singapore,
     location: "British Columbia, Canada",
     subs: [
-      
+      {
+    name: "International Conference on Autopsy and Postmortem Chemistry in Forensic Science",
+    image: sub,
+    start: {
+      date: 8,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 9,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Italian and European Studies",
+    image: sub,
+    start: {
+      date: 8,
+      month: "April",
+      year: 2024,
+    },
+    end: {
+      date: 9,
+      month: "April",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Autopsy and Postmortem Chemistry in Forensic Science",
+    image: sub,
+    start: {
+      date: 8,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 9,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on European Law and Asylum",
+    image: sub,
+    start: {
+      date: 8,
+      month: "May",
+      year: 2024,
+    },
+    end: {
+      date: 9,
+      month: "May",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on African Swine Fever and Host Pathogen Interaction",
+    image: sub,
+    start: {
+      date: 7,
+      month: "June",
+      year: 2024,
+    },
+    end: {
+      date: 8,
+      month: "June",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on European and Eurasian Studies",
+    image: sub,
+    start: {
+      date: 2,
+      month: "July",
+      year: 2024,
+    },
+    end: {
+      date: 3,
+      month: "July",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Italian and European Studies",
+    image: sub,
+    start: {
+      date: 8,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 9,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Molecular Materials Chemistry and Nanostructures",
+    image: sub,
+    start: {
+      date: 8,
+      month: "August",
+      year: 2024,
+    },
+    end: {
+      date: 9,
+      month: "August",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on European Cultural History",
+    image: sub,
+    start: {
+      date: 13,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 14,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Physics and Chemistry of Cold Molecules",
+    image: sub,
+    start: {
+      date: 13,
+      month: "September",
+      year: 2024,
+    },
+    end: {
+      date: 14,
+      month: "September",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on French and European Studies",
+    image: sub,
+    start: {
+      date: 11,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 12,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Biopolitics and Sexuality",
+    image: sub,
+    start: {
+      date: 11,
+      month: "October",
+      year: 2024,
+    },
+    end: {
+      date: 12,
+      month: "October",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Autopsy and Postmortem Chemistry in Forensic Science",
+    image: sub,
+    start: {
+      date: 29,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 30,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Italian and European Studies",
+    image: sub,
+    start: {
+      date: 29,
+      month: "November",
+      year: 2024,
+    },
+    end: {
+      date: 30,
+      month: "November",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on French and European Studies",
+    image: sub,
+    start: {
+      date: 13,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 14,
+      month: "December",
+      year: 2024,
+    },
+  },
+  {
+    name: "International Conference on Biopolitics and Sexuality",
+    image: sub,
+    start: {
+      date: 13,
+      month: "December",
+      year: 2024,
+    },
+    end: {
+      date: 14,
+      month: "December",
+      year: 2024,
+    },
+  },
     ],
   },               
 ];
