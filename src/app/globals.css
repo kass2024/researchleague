@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-size: 13px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+:root {
+  background-color: #fff;
+}
+body {
+  overflow-x: hidden !important;
+}
+
+body::-webkit-scrollbar {
+  width: 4px;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: #000;
+}
+
+@keyframes textAnimation {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(-90%);
+  }
+}
+.toanimate > h4 {
+  width: 100%;
+  animation: textAnimation 30s infinite;
+  animation-timing-function: linear;
+}
