@@ -6352,7 +6352,1815 @@ year: 2024
     },
   },
     ],
-  },               
+  },
+   {
+    image: singapore,
+    location: "Buenos Aires , Argentina",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Melbourne , Australia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Sydney , Australia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Beijing , China",
+    subs: []
+ },
+   {
+    image: singapore,
+    location: "Kowloon City , Hong Kong",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bali , Indonesia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Jakarta Raya , Indonesia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Tokyo , Japan",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Kuala Lumpur , Malaysia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Milan , Italy",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Kathmandu , Nepal",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Manila , Philippines",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Singapore , Singapore",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Seoul , south Korea",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Istanbul , Turkey",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Madrid , Spain",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Dubai , UAE",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "London , UK",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Abu Dhabi , UAE",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Chicago , USA",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "New York , USA",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Washington DC , USA",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Nassau , Bahamas",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Antwerp , Belgium",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Thimphu , Bhutan",
+    subs: []
+},
+
+  {
+    image: singapore,
+    location: "Brno , Czech Republic",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Paris , France",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Budapest , Hungary",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Florence , Italy",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Venice , Italy",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Nairobi , Kenya",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Kuwait City , Kuwait",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Ipoh , malaysia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Kota Kinabalu , Malaysia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Putrajaya , Malaysia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bucharest , Romania",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Moscow , Russia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Durban , South Africa",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Barcelona , Spain",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Colombo , Sri Lanka",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Zurich , Switzerland",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Kampala , Uganda",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Manchester , UK",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "San Francisco , USA",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Valencia , Venezuela",
+    subs: []
+ },
+   {
+    image: singapore,
+    location: "Ankara, Turkey",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Auckland, New Zealand",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bratislava, Slovakia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bukhara, Uzbekistan",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Busan, South Korea",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Cali, Colombia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Doha, Qatar",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Fethiye, Turkey",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Geneva, Switzerland",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Hai Phong, Vietnam",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Harare, Zimbabwe",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Ho Chi Minh City, Vietnam",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Kingston, Jamaica",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Lahore, Pakistan",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Lisbon, Portugal",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Male, Maldives",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Mecca, Saudi Arabia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Muscat, Oman",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Newcastle, Australia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Oran, Algeria",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Panama City, Panama",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Plovdiv, Bulgaria",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Port-au-Prince, Haiti",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Rosario, Argentina",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Santa Fe, Argentina",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Sohar, Oman",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Paramaribo, Suriname",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Suwon-si, South Korea",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Tampere, Finland",
+    subs: []
+},
+ {
+    image: singapore,
+    location: "Vienna, Austria",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Yerevan, Armenia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Montego Bay, Jamaica",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Mutare, Zimbabwe",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Sha Tin, Hong Kong",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bandar seri begawan, Brunei Darussalam",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Christchurch, New Zealand",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Ghent, Belgium",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Kopavogur, Iceland",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Montevideo, Uruguay",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Muharraq, Bahrain",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "San Miguel, El Salvador",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Davao City, Philippines",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Erdenet, Mongolia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Jerez de la Frontera, Spain",
+    subs: []
+ },
+   {
+    image: singapore,
+    location: "Khartoum, Sudan",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Ordino, Andorra",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Berlin, Germany",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Hamburg, Germany",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Dublin, Ireland",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Rome, Italy",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Amsterdam, Netherlands",
+    subs: []
+},
+ {
+    image: singapore,
+    location: "Bangkok, Thailand",
+    subs: []
+},
+ {
+    image: singapore,
+    location: "Boston, USA",
+    subs: []
+},
+ {
+    image: singapore,
+    location: "Las vegas, USA",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Adelaide, Australia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Perth, Australia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Dhaka, Bangladesh",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Copenhagen, Denmark",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Alexandria, Egypt",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Frankfurt, Germany",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Munich, Germany",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Crete, Greece",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Basrah, Iraq",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Luxembourg City, Luxembourg",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Malacca, Malaysia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Abuja, Nigeria",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Lagos, Nigeria",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Kranj, Slovenia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Pattaya, Thailand",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Phuket, Thailand",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "ACCRA, Ghana",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Al Jahra, Kuwait",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Algiers, Algeria",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Amman, Jordan",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bruges, Belgium",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bulawayo, Zimbabwe",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Chengdu, China",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "City of London, UK",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Dammam, Saudi Arabia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Freetown, Sierra Leone",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Giza, Egypt",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Hanoi, Vietnam",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Hue, Vietnam",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Jeddah, Saudi Arabia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Jerusalem, Israel",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Karachi, Pakistan",
+    subs: []
+},
+ {
+    image: singapore,
+    location: "Leipzig, Germany",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Malaga, Spain",
+    subs: []
+ },
+ {
+    image: singapore,
+    location: 'Maputo , Mozambique',
+    subs: []
+},
+ {
+    image: singapore,
+    location: "Medan , Indonesia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Minsk , Belarus",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Mombasa , Kenya",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Novosibirsk , Russia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Oslo , Norway",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Paraguay , Paraguay",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Poznan , Poland",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Quito , Ecuador",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Rawalpindi , Pakistan",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Riffa , Bahrain",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Shanghai , China",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Surabaya , Indonesia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Suva , Fiji",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Tangier , Morocco",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Turku , Finland",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Vanadzor , Armenia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Zaragoza , Spain",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Abha , Saudi Arabia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Al Rayyan , Qatar",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Augusta , USA",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Bologna , Italy",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Bradford , UK",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Chania , Greece",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Chelyabinsk , Russian Federation",
+    subs: []
+},
+{
+    image: singapore,
+    location: "George-Town , Guyana",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Gothenburg , Sweden",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Kermanshah , Iran",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Krakow , Poland",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Suez , Egypt",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Greater Valparaiso , Chile",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Formosa , Argentina",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Gazipur , Bangladesh",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Petaling Jaya , Malaysia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Setif , Algeria",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Salzburg , Austria",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Helsinki , Finland",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Athens , Greece",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Nagoya , Japan",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Mexico City , Mexico",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Taipei City , Taiwan",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Bristol , UK",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Edinburgh , UK",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Anse Boileau , Seychelles",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Austin , USA",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Bekasi , Indonesia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Bridgetown , Barbados",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Cairo , Egypt",
+    subs: []
+},
+{
+    image: singapore,
+    location: "El Eulma , Algeria",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Freeport , Bahamas",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Fukuoka , Japan",
+    subs: []
+},
+{
+    image: singapore,
+    location: "George Town , Malaysia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Kobe , Japan",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Lalitpur , Nepal",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Lima , Peru",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Los Angeles , USA",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Nanjing , China",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Nicosia , Cyprus",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Odessa , Ukraine",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Osaka , Japan",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Port Louis , Mauritius",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Salta , Argentina",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Semarang , Indonesia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Skopje , Macedonia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Souk Ahras , Algeria",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Tallinn , Estonia",
+    subs: []
+},
+ {
+    image: singapore,
+    location: "wellington , New Zealand",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Yokohama , Japan",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Banjul , Gambia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Caracas , Venezuela",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Changwon , South Korea",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Kenema , Sierra Leone",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Lucaya , Bahamas",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Ajman , UAE",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Al Khobar , Saudi Arabia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Babruysk , Belarus",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Brisbane , Australia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Brussels , Belgium",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Cascais , Portugal",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Dallas , USA",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Janakpur , Nepal",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Kitakyushu , Japan",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Maseru , Lesotho",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Nice , France",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Santa Clara , Cuba",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Seeb , Oman",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Seville , Spain",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Carolina , Puerto Rico",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Da Nang , Vietnam",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Florianopolis , Brazil",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Puno , Peru",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Split , Croatia",
+    subs: []
+},
+{
+    image: singapore,
+    location: "The Hague , Netherlands",
+    subs: []
+},
+{
+    image: singapore,
+    location: "Addis Ababa , Ethiopia",
+    subs: []
+},
+
+  {
+    image: singapore,
+    location: "Antalya , Turkey",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Brasilia , Brazil",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Chittagong , Bangladesh",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Erbil , Iraq",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Gaza City , Palestinian Territories",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Islamabad , Pakistan",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Kumasi , Ghana",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Limassol , Cyprus",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Miami , USA",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Naples , Italy",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Omsk , Russia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Puerto Plata , Dominican Republic",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Salvador , Brazil",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Sofia , Bulgaria",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Tianjin , China",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Nuuk , Greenland",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Sao Tome , Sao Tome and Principe",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bandung , Indonesia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Beersheba , Israel",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Beira , Mozambique",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bergen , Norway",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bursa , Turkey",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "El Alto , Bolivia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Hamad Town , Bahrain",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Isfahan , Iran",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Liverpool , UK",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Marrakesh , Morocco",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Napier , New Zealand",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "San Pedro Sula , Honduras",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Taichung City , Taiwan",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Utheemu , Maldives",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bacolod City , Philippines",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Canillo , Andorra",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Curepipe , Mauritius",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Fuzhou , China",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Innsbruck , Austria",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Maringa , Brazil",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Sao Luis , Brazil",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Xian , China",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Port Moresby , Papua New Guinea",
+    subs: []
+ },
+   {
+    image: singapore,
+    location: "Quezon City, Philippines",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Adana, Turkey",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Alajuela, Costa Rica",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Cuenca, Ecuador",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Lilongwe, Malawi",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Nuremberg, Germany",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Shah Alam, Malaysia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Mendoza, Argentina",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Roskilde, Denmark",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Birmingham, UK",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Chiba, Japan",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Lautoka, Fiji",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bayamo, Cuba",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Benin, Nigeria",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bharatpur, Nepal",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Casablanca, Morocco",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Chiang Mai, Thailand",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Kagoshima, Japan",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Oruro, Bolivia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Trishal Upazila, Bangladesh",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Gbarnga, Liberia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Narayanganj, Bangladesh",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Sylhet, Bangladesh",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Hiroshima, Japan",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Mashhad, Iran",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Andijan, Uzbekistan",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bago, Burma",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Bahir Dar, Ethiopia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Entebbe, Uganda",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Greater La Serena, Chile",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Mosul, Iraq",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Patiya Upazila, Bangladesh",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Port Elizabeth, South Africa",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Rostov-on-Don, Russia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "surat thani, Thailand",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Barisal, Bangladesh",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Blida, Algeria",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Damascus, Syria",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Incheon, South Korea",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Mopti, Mali",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Pilsen, Czech Republic",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Andorra la vella, Andorra",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Annaba, Algeria",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Atlanta, Georgia",
+    subs: []
+},
+  {
+    image: singapore,
+    location: "Denver, USA",
+    subs: []
+ },
+{
+  image: singapore,
+  location: "Marigot, Dominica",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Faisalabad, Pakistan",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Kariba, Zimbabwe",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Kisumu, Kenya",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Kyoto, Japan",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Multan, Pakistan",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Nampula, Mozambique",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Ndola, Zambia",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Riyadh, Saudi Arabia",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Saint Petersburg, Russia",
+  subs: []
+},
+{
+  image: singapore,
+  location: "San Antonio, USA",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Vatican City, Vatican City",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Vitoria, Brazil",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Wuhan, China",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Gyumri, Armenia",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Kosice, Slovakia",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Zarqa, Jordan",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Cape Town, South Africa",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Dire Dawa, Ethiopia",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Kaohsiung City, Taiwan",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Mutrah, Oman",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Phoenix, USA",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Porto, Portugal",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Ras al Khaimah, UAE",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Samarkand, Uzbekistan",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Cannes, France",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Baghdad, Iraq",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Columbus, USA",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Colon City, Panama",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Kyrenia, Cyprus",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Lae, Papua New Guinea",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Malindi, Kenya",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Marseille, France",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Santo Domingo, Dominican Republic",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Serrekunda, Gambia",
+  subs: []
+},
+{
+  image: singapore,
+  location: "victoria-Mahe, Seychelles",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Ashdod, Israel",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Bilbao, Spain",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Konya, Turkey",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Malmo Municipality, Sweden",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Mazyr, Belarus",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Turin, Italy",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Kharkiv, Ukraine",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Kunming, China",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Lodz, Poland",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Kitwe, Zambia",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Swakopmund, Namibia",
+  subs: []
+},
+{
+  image: singapore,
+  location: "Savannah, Georgia",
+  subs: []
+},
+{
+  image: singapore,
+  location: "California, USA",
+  subs: []
+},
+             
 ];
 
 export const books = [
