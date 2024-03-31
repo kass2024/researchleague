@@ -12479,7 +12479,345 @@ year: 2024,
   {
     image: singapore,
     location: "Abu Dhabi , UAE",
-    subs: []
+    subs: [
+     {
+    name: "International Conference on Fisheries and Aquaculture",
+    image: sub,
+    start: {
+      date: 3,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 4,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Urban Street Pattern Design and Transport",
+    image: sub,
+    start: {
+      date: 3,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 4,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Changes in Asian Politics",
+    image: sub,
+    start: {
+      date: 5,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 6,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Healthcare Wearable Technologies",
+    image: sub,
+    start: {
+      date: 5,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 6,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Business Applications of Machine Learning",
+    image: sub,
+    start: {
+      date: 9,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 10,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Recreational Tourism and Hospitality Management",
+    image: sub,
+    start: {
+      date: 9,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 10,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Applications of Bioinformatics",
+    image: sub,
+    start: {
+      date: 11,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 12,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Urban Forestry and Statistics",
+    image: sub,
+    start: {
+      date: 11,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 12,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Financial Service Management and Insurance Industries",
+    image: sub,
+    start: {
+      date: 18,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 19,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Urban Studies and Planning",
+    image: sub,
+    start: {
+      date: 18,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 19,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Soft Body Robotics and Applications",
+    image: sub,
+    start: {
+      date: 22,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 23,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Arithmetic Number Theory",
+    image: sub,
+    start: {
+      date: 22,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 23,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Civil Defense and Disaster Management",
+    image: sub,
+    start: {
+      date: 23,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 24,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Problems in African Politics",
+    image: sub,
+    start: {
+      date: 23,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 24,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Documentation Studies and Information Resources",
+    image: sub,
+    start: {
+      date: 25,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 26,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Smart Business Dealmakers",
+    image: sub,
+    start: {
+      date: 25,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 26,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "World Conference on Psychology",
+    image: sub,
+    start: {
+      date: 29,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 30,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Early Childhood Education and Care",
+    image: sub,
+    start: {
+      date: 29,
+      month: "April",
+      year: "2024,"
+   },
+    end: {
+      date: 30,
+      month: "April",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Gender Studies and Gender",
+    image: sub,
+    start: {
+      date: 3,
+      month: "May",
+      year: "2024,"
+   },
+    end: {
+      date: 4,
+      month: "May",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Architecture, Landscape, Interior Design and Urban Planning",
+    image: sub,
+    start: {
+      date: 3,
+      month: "May",
+      year: "2024,"
+   },
+    end: {
+      date: 4,
+      month: "May",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Asian Cultural and Religious Studies",
+    image: sub,
+    start: {
+      date: 7,
+      month: "May",
+      year: "2024,"
+   },
+    end: {
+      date: 8,
+      month: "May",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Dental Medicine and Healthcare",
+    image: sub,
+    start: {
+      date: 7,
+      month: "May",
+      year: "2024,"
+   },
+    end: {
+      date: 8,
+      month: "May",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Mobile Marketing Applications",
+    image: sub,
+    start: {
+      date: 9,
+      month: "May",
+      year: "2024,"
+   },
+    end: {
+      date: 10,
+      month: "May",
+      year: 2024,
+    },
+ },
+  {
+    name: "International Conference on Educational Tourism, Activities and Tours",
+    image: sub,
+    start: {
+      date: 9,
+      month: "May",
+      year: "2024,"
+   },
+    end: {
+      date: 10,
+      month: "May",
+      year: 2024,
+    },
+  },
+
+    ]
 },
   {
     image: singapore,
