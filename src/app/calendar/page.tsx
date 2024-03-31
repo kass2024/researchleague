@@ -41,9 +41,7 @@ const Page = () => {
                         <td className="py-8 border-r-[#ccc] border-r-[1px] text-center text-[#E1472F] font-bold">
                           {sub.name}
                         </td>
-                        <td className="py-8 border-r-[#ccc] border-r-[1px] text-center">
-                          {sub.location}
-                        </td>
+
                       </tr>
                     );
                   })}
