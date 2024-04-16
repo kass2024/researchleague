@@ -39,7 +39,7 @@ const Footer = () => {
               <MdEmail color="#ccc" />
             </span>
             <h5>
-              Contact No: <br /> +1 (438) 51900266
+              Contact No: <br /> +1 (438) 5190266
             </h5>
           </div>
         </div>

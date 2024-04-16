@@ -13,7 +13,7 @@ const Banner = () => {
         <span>
           <MdPhone color="red" size={17} />
         </span>
-        +1 (438) 51900266
+        +1 (438) 5190266
       </h5>
     </div>
   );

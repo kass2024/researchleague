@@ -35,9 +35,7 @@ const Page = () => {
                           i % 2 !== 0 ? "bg-[#EEEEEE]" : ""
                         }`}
                       >
-                        <td className="py-8 border-x-[1px] border-x-[#ccc] text-center">
-                          {sub.start.date} {sub.start.month}, {sub.start.year}
-                        </td>
+                     
                         <td className="py-8 border-r-[#ccc] border-r-[1px] text-center text-[#E1472F] font-bold">
                           {sub.name}
                         </td>
